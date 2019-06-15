@@ -1,0 +1,20 @@
+{
+	"auth": {
+		"cognito23a19af7": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation"
+		}
+	},
+	"analytics": {
+		"awsapp": {
+			"service": "Pinpoint",
+			"providerPlugin": "awscloudformation"
+		}
+	},
+	"storage": {
+		"awsApp": {
+			"service": "S3",
+			"providerPlugin": "awscloudformation"
+		}
+	}
+}
